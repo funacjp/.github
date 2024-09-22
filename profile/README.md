@@ -29,3 +29,7 @@
 ---
 
 一緒に公立はこだて未来大学の未来を創っていきましょう！
+
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/m1dat3zkj24bzwiksukm" alt="trackgit-views" />
+</a>
